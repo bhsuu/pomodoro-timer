@@ -1,0 +1,36 @@
+button {
+  background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+button:focus{
+  outline:none;
+}
+#resume{
+  display:none;
+}
+.clock{
+ width:500px;
+
+  margin:auto;
+
+}
+body{
+  background-color:#D05252;
+}
+
+#timer{
+  border:solid;
+  border-color:#6A6DBA;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  margin: 20px 150px 20px 150px;
+  
+}
+#title{
+  padding:30px;
+}
